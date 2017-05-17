@@ -25,8 +25,8 @@
 - grün -> Rx des ESP
 - weiss -> Tx des ESP
 - schwarz -> GND
-- rot -> ist der Widerstand ausgelötet? wichtig! -> VCC
-^^ beim Einstecken blinkt die blaue Led? Yeah - so weit alles richtig gemacht: Erfolgserlebnis
+- rot -> ist der Widerstand ausgelötet? wichtig! -> VCC  
+^ beim Einstecken blinkt die blaue Led? Yeah - so weit alles richtig gemacht: Erfolgserlebnis
 
 
 
@@ -91,9 +91,3 @@ Open Boards Manager from Tools > Board menu and install esp8266 platform (and do
 Die Agenda wird ggfs. kurzfristig angepasst.
 
 **Unkostenbeitrag** 10€ p.P. für das super Esp8266-Dev-Set, das Ihr zum weiter hacken mit nach Hause nehmen müsst.
-
-
-
-
-
-
