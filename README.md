@@ -1,12 +1,12 @@
 # Löten
-##ESP
+## ESP
 - Auslöten des 0Ohm Widerstands (der Mittlere)
 - Spannungswandler 5V -> 3V
 - Pin Header
 - Stecker für ws2812b Led
 
-##USB Serial
-###notwendig:
+## USB Serial
+### notwendig:
 
 - "circuit bending" ... nur Spass ... das ist nur ein Beispielbild
 
@@ -15,7 +15,7 @@
 - wir benötigen lediglich eine Brücke für +5V vom USB Stecker zum roten Kabel (diagonal über die Platine)
 
 
-###damit ich ruhig schlafen kann:
+### damit ich ruhig schlafen kann:
 - alle überstehenden Litzen, Drähte abzwicken
 - USB Gehäuse/Zugentlastung anlöten
 
@@ -47,12 +47,12 @@
 - datei -> öffnen -> blink.lua
 
 
-#IOT für Einsteiger: SMD löten + ESP8266 prototyping hands-on workshop
+# IOT für Einsteiger: SMD löten + ESP8266 prototyping hands-on workshop
 
 
 **Datum**: Samstag 20.Mai 15-18 Uhr
 
-##Hast du zu Hause vorbereitet:
+## Hast du zu Hause vorbereitet:
 * Download + install [Arduino IDE ]( https://www.arduino.cc/en/main/software )
   * Start Arduino IDE and open Preferences window. (Datei -> Voreinstellungen)
   Enter **http://arduino.esp8266.com/stable/package_esp8266com_index.json** into Additional Board Manager URLs field. You can add multiple URLs, separating them with commas.
@@ -60,7 +60,7 @@ Open Boards Manager from Tools > Board menu and install esp8266 platform (and do
 * [Esplorer installieren]( https://esp8266.ru/esplorer/ )
 
 
-##Agenda
+## Agenda
 
 * Vorstellungsrunde: Wer bist du? Warum elektro-Internet-Kleingeräte? (aka IOT)
 * Schnelle Einführung in Elektronik Prototyping
